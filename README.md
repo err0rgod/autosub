@@ -21,7 +21,7 @@ You need to install Golang to use sublist3r and subfinder.
 Clone the repository.
 
 ```bash
-$ git clone
+$ git clone https://github.com/err0rgod/autosub.git
 ```
 
 Change directory.
