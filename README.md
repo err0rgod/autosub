@@ -45,9 +45,9 @@ $ bash autosub.sh
 ```
 
 2. Enter the domain name without https://.
-   ![screenshot1](1.png)
+   ![screenshot1](1.jpg)
 3. Enter the file of the Location without '/' on starting.
-   ![screnshot2](2.png)
+   ![screnshot2](2.jpg)
 4. Now the tool is started and it will create some files in the background which will help in creating the last "spotify.xom.txt" file.
 5. Enjoy the time which you saved by using my tool.
 
